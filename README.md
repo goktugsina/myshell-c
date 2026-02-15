@@ -45,3 +45,16 @@ environment variable to locate executables using `execv()`.
 ```bash
 gcc -Wall -Wextra -o myshell main.c
 ./myshell
+
+## Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+- Unix process lifecycle management
+- Low-level system calls
+- File descriptor manipulation
+- Signal handling
+- Building a command interpreter from scratch
+
+This project reflects my understanding of operating system fundamentals and system-level programming.
+
